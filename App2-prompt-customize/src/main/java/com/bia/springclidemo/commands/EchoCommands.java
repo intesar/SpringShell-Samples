@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class EchoCommands implements CommandMarker {
 
-    @CliAvailabilityIndicator({"cli"})
+    @CliAvailabilityIndicator({"echo"})
     public boolean isSimpleAvailable() {
         //always available
         return true;
