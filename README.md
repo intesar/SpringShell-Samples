@@ -1,7 +1,6 @@
-
 Maven 3:
 
-===================== App1 bare minimum ============
+------------- App1 bare minimum -------------------
 cd App1-minimum
 
 1.Build the project
@@ -11,4 +10,7 @@ cd App1-minimum
   $>java -jar target/SpringCLIDemo-1.0-SNAPSHOT.jar
   
 
-====================================================
+--------------- App2 with customizations --------------
+
+
+
