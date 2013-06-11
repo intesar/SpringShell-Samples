@@ -1,6 +1,7 @@
 Maven 3:
 
 ------------- App1 bare minimum -------------------
+
 cd App1-minimum
 
 1.Build the project
@@ -13,4 +14,12 @@ cd App1-minimum
 --------------- App2 with customizations --------------
 
 
+cd App2-prompt-customize
+
+1.Build the project
+  $>mvn package
+  
+2.run spring shell
+  $>java -jar target/App2-prompt-customize-1.0-SNAPSHOT.jar
+  
 
